@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.csv
+*.png
+!fig1_model_comparison.png
+!fig2_shap_summary.png
+!fig3_actual_vs_pred.png
